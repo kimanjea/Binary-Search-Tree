@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\bin\Debug\net8.0\Binary-Search-Tree.exe
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\bin\Debug\net8.0\Binary-Search-Tree.deps.json
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\bin\Debug\net8.0\Binary-Search-Tree.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\bin\Debug\net8.0\Binary-Search-Tree.dll
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\bin\Debug\net8.0\Binary-Search-Tree.pdb
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.dll
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\refint\Binary-Search-Tree.dll
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.pdb
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\Binary-Search-Tree.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Binary-Search-Tree\obj\Debug\net8.0\ref\Binary-Search-Tree.dll
